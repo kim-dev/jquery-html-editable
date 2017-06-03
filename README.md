@@ -1,3 +1,6 @@
+## Note:
+this is just clone from original github https://github.com/zevero/jquery-html-editable
+
 # jquery-html-editable
 A tiny jquery replacement for contenteditable
 
